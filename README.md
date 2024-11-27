@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2>My LeetCode Progress</h2>
-  <img src="https://leetcard.jacoblin.cool/DarshK25?theme=radical&font=Hind%20Madurai" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/DarshK25?theme=dark&font=M%20PLUS%201p&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 <h3 align="center">Connect with me:</h3>
