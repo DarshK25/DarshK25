@@ -9,21 +9,26 @@
   <img src="https://leetcard.jacoblin.cool/DarshK25?theme=radical&font=Hind%20Madurai" alt="LeetCode Stats" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/darsh-kalathiya-00433b280/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="c" width="40" height="40"/>
-  </a> </p>
-  <a href="https://x.com/DarshK2504" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="c" width="40" height="40"/>
-  </a> </p>
-  <a href="mailto:darshkalathiya25@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <!-- Twitter -->
+  <a href="https://x.com/DarshK2504" target="_blank" rel="noreferrer" style="margin-left: 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  <!-- Email -->
+  <a href="mailto:darshkalathiya25@gmail.com" target="_blank" rel="noreferrer" style="margin-left: 15px;">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
   </a>
-  <a href="tel:+918779860907" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/408823/phone.svg" alt="Phone" width="40" height="40"/>
+  <!-- Phone -->
+  <a href="tel:+918779860907" target="_blank" rel="noreferrer" style="margin-left: 15px;">
+    <img src="https://www.svgrepo.com/show/354104/phone-icon.svg" alt="Phone" width="40" height="40"/>
   </a>
 </p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
