@@ -25,8 +25,9 @@
   </a>
   <!-- Phone -->
   <a href="tel:+918779860907" target="_blank" rel="noreferrer" style="margin-left: 15px;">
-    <img src="https://www.svgrepo.com/show/354104/phone-icon.svg" alt="Phone" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Phone_icon.svg" alt="Phone" width="40" height="40"/>
   </a>
+
 </p>
 
 
