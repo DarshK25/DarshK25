@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![LeetCode Stats](https://zeynalmardanli-leetcode-stats.vercel.app/dark/{DarshK25})](https://zeynalmardanli-leetcode-stats.vercel.app/dark/DarshK25)
+![LeetCode Stats](https://leetcard.jacoblin.cool/DarshK25?theme=radical&font=Hind%20Madurai)
 <!--
 **DarshK25/DarshK25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
