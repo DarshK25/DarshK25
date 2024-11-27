@@ -23,11 +23,6 @@
   <a href="mailto:darshkalathiya25@gmail.com" target="_blank" rel="noreferrer" style="margin-left: 15px;">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
   </a>
-  <!-- Phone -->
-  <a href="tel:+918779860907" target="_blank" rel="noreferrer" style="margin-left: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Phone_icon.svg" alt="Phone" width="40" height="40"/>
-  </a>
-
 </p>
 
 
