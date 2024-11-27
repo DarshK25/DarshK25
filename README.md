@@ -10,13 +10,23 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/darsh-kalathiya-00433b280/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="c" width="40" height="40"/>
   </a> </p>
+  <a href="https://x.com/DarshK2504" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="c" width="40" height="40"/>
+  </a> </p>
+  <a href="mailto:darshkalathiya25@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="tel:+918779860907" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/408823/phone.svg" alt="Phone" width="40" height="40"/>
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a> 
