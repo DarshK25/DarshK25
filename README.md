@@ -10,31 +10,30 @@
   <img src="https://komarev.com/ghpvc/?username=DarshK25&color=brightgreen" alt="Profile views" />
 </p>
 
-<!-- LeetCode Progress Card (with heatmap) -->
-<div align="center">
-  <h2>My LeetCode Progress</h2>
+<!-- LeetCode Progress Card (with heatmap, no container) -->
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/DarshK25?theme=dark&font=M%20PLUS%201p&ext=heatmap" alt="LeetCode Stats" />
-</div>
+</p>
 
-<!-- Animated LeetCode Badges (rotating/cycling badges) -->
+<!-- Animated LeetCode Badges: auto-rotating badges, no background container -->
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=DarshK25&animated=true" alt="LeetCode Badge (Animated)" />
 </p>
 
-<!-- Contribution streak/heatmap -->
+<!-- GitHub contribution streak heatmap -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DarshK25&theme=dark" alt="GitHub Streak" />
 </p>
 
-<!-- GitHub Stats Card -->
-<div align="center">
+<!-- GitHub Stats Card, no container -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DarshK25&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="DarshK25's GitHub stats" />
-</div>
+</p>
 
-<!-- Top Languages Card -->
-<div align="center">
+<!-- Top Languages Card, no container -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshK25&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
