@@ -1,12 +1,33 @@
 <h1 align="center">Hi 👋, I'm Darsh Kalathiya</h1>
+
 <h3 align="center">
   Engineering Student @ APSIT | Passionate C++, Java, & Web Dev Enthusiast | 
   Problem Solver @ LeetCode | Building Skills for Real-World Impact
 </h3>
 
+<!-- LeetCode Progress Section -->
 <div align="center">
   <h2>My LeetCode Progress</h2>
   <img src="https://leetcard.jacoblin.cool/DarshK25?theme=dark&font=M%20PLUS%201p&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
+<!-- Rotating/Animated Badges Row (simulate carousel as horizontally scrolling badges) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Top%20Badges-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/100DaysOfCode-Learner-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Annual%20Badge-2025-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" />
+  <!-- Add/remove badges above as preferred -->
+</p>
+
+<!-- GitHub Stats Card -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarshK25&show_icons=true&theme=radical" alt="DarshK25's GitHub stats" />
+</div>
+
+<!-- Top Languages Card -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshK25&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <h3 align="center">Connect with me:</h3>
@@ -15,7 +36,7 @@
   <a href="https://www.linkedin.com/in/darsh-kalathiya-00433b280/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <!-- Twitter -->
+  <!-- Twitter/X -->
   <a href="https://x.com/DarshK2504" target="_blank" rel="noreferrer" style="margin-left: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
@@ -24,7 +45,6 @@
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -67,5 +87,4 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-
 </p>
