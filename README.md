@@ -13,28 +13,38 @@
 <!-- LeetCode Progress Card (with heatmap) -->
 <div align="center">
   <h2>My LeetCode Progress</h2>
-  <img src="https://leetcard.jacoblin.cool/DarshK25?theme=dark&font=M%20PLUS%201p&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/DarshK25?theme=dark&font=M%20PLUS%201p&ext=heatmap" alt="LeetCode Stats" 
+    onerror="this.onerror=null;this.src='https://via.placeholder.com/400x200?text=LeetCode+Stats+Unavailable';"/>
 </div>
 
 <!-- Animated LeetCode Badges (rotating/cycling badges) -->
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=DarshK25&animated=true&theme=dark" alt="LeetCode Badge (Animated)" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=DarshK25&animated=true&theme=dark" alt="LeetCode Badge (Animated)" 
+    onerror="this.onerror=null;this.src='https://via.placeholder.com/200x40?text=LeetCode+Badge+Unavailable';"/>
 </p>
 
 <!-- Contribution streak/heatmap -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DarshK25&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=DarshK25&theme=dark" alt="GitHub Streak" 
+    onerror="this.onerror=null;this.src='https://via.placeholder.com/400x80?text=Streak+Stats+Unavailable';"/>
 </p>
 
 <!-- GitHub Stats Card -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarshK25&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="DarshK25's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DarshK25&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="DarshK25's GitHub stats"
+    onerror="this.onerror=null;this.src='https://via.placeholder.com/400x200?text=GitHub+Stats+Unavailable';"/>
 </div>
 
 <!-- Top Languages Card -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshK25&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshK25&layout=compact&theme=radical" alt="Top Languages" 
+    onerror="this.onerror=null;this.src='https://via.placeholder.com/400x150?text=Languages+Card+Unavailable';"/>
 </div>
+
+<!-- Warning message for badge fail -->
+<p align="center">
+  <em>⚠️ If stat cards above show loading errors or "something went wrong", it means external badge/image services are temporarily unavailable. Please reload later!</em>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
